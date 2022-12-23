@@ -1,0 +1,51 @@
+
+.logo{
+    width: 200px;
+    margin-left: 30px;
+} 
+
+.img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    object-position: 50% 50%;   
+}
+.box{
+    padding:2em;
+    background: rgb(216,216,216);
+    background: linear-gradient(135deg, rgba(216,216,216,1) 0%, rgb(168, 168, 166) 100%);
+}
+
+.card{
+    box-shadow: 0 5px 10px rgba(0,0,0,.2);
+}
+.products{
+    
+    background: rgb(86,85,78);
+    background: linear-gradient(135deg, rgba(86,85,78,1) 0%, rgba(24,23,17,1) 100%);   
+}
+.solutions{
+    background: rgb(86,85,78);
+    background: linear-gradient(135deg, rgba(86,85,78,1) 0%, rgba(24,23,17,1) 100%);   
+
+}
+.fb{
+    
+    padding-left:1em;
+    font-weight: bolder;   
+}
+
+.social{
+    padding-top: 1em;
+    cursor: pointer;
+   
+}
+.social:hover{
+    color:grey
+}
+.foot{
+    width: 100%;
+    background-color: black;
+    padding-top: 8px;
+}
+
